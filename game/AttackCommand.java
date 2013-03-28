@@ -5,7 +5,7 @@ package game;
 
 
 /**
- * @author josh.l.wright
+ * @author josh.l.wright, kurt.andres
  * 
  */
 public class AttackCommand extends Command {
